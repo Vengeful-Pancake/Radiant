@@ -1,0 +1,4 @@
+pip install pygame
+pip install pypiwin32
+pip install opencv-python
+pip install pygrabber
