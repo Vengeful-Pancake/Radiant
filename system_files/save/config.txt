@@ -1,1 +1,1 @@
-{"SCREEN": 1, "VIDEO": "", "MODE": "CAMERA", "INPUT1": "", "INPUT2": "", "OUTPUT": "", "STATE": "3DMODE", "WIDTH": 900, "HEIGHT": 720, "SCROLL": 67, "BrowseNumber": 2, "CAMNAME": {}, "CAMARRAY": [12], "HOLDER": ""}
+{"SCREEN": 1, "VIDEO": "", "MODE": "CAMERA", "INPUT1": "", "INPUT2": "", "OUTPUT": "", "STATE": "PROGRAM", "WIDTH": 900, "HEIGHT": 720, "SCROLL": 216, "BrowseNumber": 2, "CAMNAME": {}, "CAMARRAY": [12], "HOLDER": ""}
